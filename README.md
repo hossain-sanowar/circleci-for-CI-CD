@@ -113,9 +113,6 @@ git push -u origin main
 
 <a href="https://circleci.com/login/">Circle CI</a>
 
-## setup your project 
-
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
@@ -126,6 +123,17 @@ HEROKU_API_KEY
 HEROKU_APP_NAME
 HEROKU_EMAIL_ADDRESS
 DOCKER_IMAGE_NAME=wafercircle3270303
+```
+## setup the circle ci environments project 
+```
+SELECT ORGANIZATION
+SELECT REPOSITORY
+PROJECTS NAME:
+BRANCH NAME:
+SETUP PROJECT -> PROJECT SETTINGS -> ENVIRONMENT VARIABLES -> ADD ENVIRONMENT VARIABLES:
+1. DOCKER_USER, PASSWORD
+2. DOCKER IMAGE NAME
+3. CLOUD INFORMATION LIKE HEROKU
 ```
 
 
