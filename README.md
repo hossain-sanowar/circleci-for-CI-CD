@@ -1,3 +1,12 @@
+## CI/CD Pipeline: 
+```
+There are multiple option to create the CI/CD Pipeline for Machine Learning Projects.
+- Circle ci: {Pipeline: Local app -> GitHub -> circle ci -> Docker Image -> Docker Hub - > Cloud (Heroku)} 
+- GitHub Action:
+- DVC
+- MLflow
+- Directly deploy in cloud through Flask API
+```
 ## Create a file "Dockerfile" with below content
 
 ```
