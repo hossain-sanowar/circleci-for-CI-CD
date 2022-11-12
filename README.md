@@ -7,6 +7,9 @@ There are multiple option to create the CI/CD Pipeline for Machine Learning Proj
 - MLflow
 - Directly deploy in cloud through Flask API
 ```
+
+![Result of Circle ci](readme_resources/circleci.png)
+
 ## Create a file "Dockerfile" with below content
 
 ```
