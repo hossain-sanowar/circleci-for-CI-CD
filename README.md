@@ -1,4 +1,7 @@
 ## CI/CD Pipeline: 
+#Work flow
+code -> GitHub -> Docker -> Circleci -> Heroku Cloud
+
 ```
 There are multiple option to create the CI/CD Pipeline for Machine Learning Projects.
 - Circle ci: {Pipeline: Local app -> GitHub -> circle ci -> Docker Image -> Docker Hub - > Cloud (Heroku)} 
